@@ -1,0 +1,34 @@
+html {
+    background-color: cadetblue;     
+}
+
+.box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.box-2 {
+    display: inline-block;
+    width: 150px;
+    height: 180px;
+    background-color: blue;
+}
+
+.box-2-a {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
+
+.box-2-aa {
+    width: 30px;
+    height: 30px;
+    background-color: green;
+}
+
+.click-me {
+    background-color: transparent;
+
+}
